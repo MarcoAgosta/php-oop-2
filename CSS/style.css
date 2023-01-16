@@ -3,3 +3,7 @@
     bottom: 3%;
     right: 5%;
 }
+
+.card{
+    min-height: 630px;
+}
